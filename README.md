@@ -23,6 +23,6 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![REDUX](https://img.shields.io/badge/redux-%898989.svg?style=for-the-badge&logo=redux&logoColor=%2361DA)
   
 </div>
