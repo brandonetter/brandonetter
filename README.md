@@ -42,3 +42,5 @@ brandonetter@gmail.com
 
   
 </div>
+
+📫 How to reach me: [Email](mailto:brandonetter@gmail.com) , [LinkedIn](https://www.linkedin.com/in/brandon-etter/)
