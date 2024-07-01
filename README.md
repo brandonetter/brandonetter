@@ -1,4 +1,5 @@
 ## Full Stack Web Developer
+![BRANDON ETTER](https://github.com/brandonetter/brandonetter/assets/4108484/7203b747-f679-4be5-936c-2d91ec740d29)
 
 brandonetter@gmail.com
 
